@@ -1,5 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Douglas Lopes</h1>
 
+<p>• 💻 I am currently looking for a junior front end development job.</p>
+<p>• 👨🏻‍💻 I am currently studying more front end, however i am learning back end as well.</p>
+
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Douglas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Douglas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -11,10 +15,10 @@
 
 ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/DouglasL7">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=DouglasL7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasL7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
