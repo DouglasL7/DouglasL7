@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Douglas Lopes</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Douglas Lopes</h1>
 
 <p>• 💻 I am currently looking for a junior front end development job.</p>
 <p>• 👨🏻‍💻 I am currently studying more front end, however i am learning back end as well.</p>
