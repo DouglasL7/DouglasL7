@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px" height="35px">, I'm Douglas Lopes</h1>
+<h1 align="left">Hi, I'm Douglas Lopes</h1>
 
 <p>• 💻 I am currently looking for a junior front end development job.</p>
 <p>• 👨🏻‍💻 I am currently studying more front end, however i am learning back end as well.</p>
@@ -19,12 +19,23 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-##
-
 <div align="center">
   <a href="https://github.com/DouglasL7">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=DouglasL7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasL7&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
